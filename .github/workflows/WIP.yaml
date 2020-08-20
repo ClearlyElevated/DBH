@@ -1,0 +1,2 @@
+- name: action-wippy
+  uses: RocktimSaikia/action-wippy@2.0.2
